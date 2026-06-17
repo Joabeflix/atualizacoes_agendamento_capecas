@@ -1,0 +1,61 @@
+{
+    "versao_atual": "1.0.5",
+    "url_versao": "https://raw.githubusercontent.com/Joabeflix/atualizacoes_agendamento_capecas/main/versao.json",
+    "verificar_atualizacao": true,
+    "permitir_subir_xml": true,
+    "tamanho_fonte": 13,
+    "permissao_alterar_campo_prioridade": false,
+    "aba_dados": 0,
+    "cnpj_nao_subir": [
+        "02468894000174",
+        "32723039000123",
+        "27023308000109",
+        "05801046000123"
+    ],
+    "horarios_bloqueio_atualizacao": [
+        {
+            "inicio": "08:10",
+            "fim": "08:20"
+        },
+        {
+            "inicio": "09:10",
+            "fim": "09:20"
+        },
+        {
+            "inicio": "10:10",
+            "fim": "10:20"
+        },
+        {
+            "inicio": "11:10",
+            "fim": "11:20"
+        },
+        {
+            "inicio": "12:10",
+            "fim": "12:20"
+        },
+        {
+            "inicio": "13:10",
+            "fim": "13:20"
+        },
+        {
+            "inicio": "14:10",
+            "fim": "14:20"
+        },
+        {
+            "inicio": "15:10",
+            "fim": "15:20"
+        },
+        {
+            "inicio": "16:10",
+            "fim": "16:20"
+        },
+        {
+            "inicio": "17:10",
+            "fim": "17:20"
+        },
+        {
+            "inicio": "18:10",
+            "fim": "18:20"
+        }
+    ]
+}
