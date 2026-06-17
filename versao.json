@@ -1,6 +1,6 @@
 {
-  "versao": "1.6",
+  "versao": "1.0.5",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.6/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.0.5/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Nova versão disponível do Agendamento de Carga Capeças."
 }
