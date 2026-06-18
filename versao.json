@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.8",
+  "versao": "1.0.9",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.0.8/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.0.9/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "\n -> Adicionado COR LARANJA para NFs com prioridade\n -> O campo CONFERÊNCIA virou campo de DATA\n -> Adicionado Atalho CTRL-Z P/ salvar na nuvem"
 }
