@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.15",
+  "versao": "1.1.0",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.0.15/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "--> Colunas novas: [Data Bonus] - [Data Conferencia] (Alimentadas automaticamente)"
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v1.1.0/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "--> Agora você pode visualizar/Salvar o PDF da nota. Clique com o botão direito para ver as opções."
 }
