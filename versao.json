@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.1",
+  "versao": "2.0.2",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "--> Interface mais organizada e limpa.\n--> Adicionadas opções de temas para proporcionar uma melhor visualização dos dados, de acordo com a preferência de cada usuário.\n--> Adicionado o tema Capeças, com um estilo visual inspirado na identidade da empresa."
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.0.2/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "-----------------------------------------------"
 }
