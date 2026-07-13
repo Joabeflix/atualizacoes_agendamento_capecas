@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.0",
+  "versao": "2.0.1",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/2.0.0/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "--> Adicionado o campo Bonus. Agora você pode visualizar/Salvar o PDF da nota. Clique com o botão direito para ver as opções. Agora você pode filtrar de forma dinâmica escolhendo colunas específicas. Além disso você pode modificar o grid."
 }
