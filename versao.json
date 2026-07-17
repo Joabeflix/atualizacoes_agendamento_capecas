@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.4",
+  "versao": "2.1.0",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.0.4/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.1.0/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Bug Fix."
 }
