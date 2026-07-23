@@ -1,6 +1,6 @@
 {
-  "versao": "2.1.1",
+  "versao": "2.1.2",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.1.1/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "Bug Fix."
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.1.2/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "Adicionado novos filtros p/ ajudar na garantia."
 }
