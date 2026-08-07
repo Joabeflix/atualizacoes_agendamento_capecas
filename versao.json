@@ -1,6 +1,6 @@
 {
-  "versao": "2.2.4",
+  "versao": "2.2.5",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.2.4/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v2.2.5/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Bug Fix. \nAdicionada notificação quando notas são importadas no sistema (indicativo para atualizar a interface). \n(A próxima atualização incluirá a opção de desativar esse aviso. Por enquanto, se estiver atrapalhando, você pode silenciá-lo nas configurações do Windows)."
 }
