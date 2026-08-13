@@ -1,6 +1,6 @@
 {
-  "versao": "3.0.1",
+  "versao": "3.0.2",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v3.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v3.0.2/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Adicionado a opção de ver as notas s/ Bonus de forma + facilitada e com a prioridade. Add a opção de subir o Bonus para o APP com a planilha da rotina 8185."
 }
