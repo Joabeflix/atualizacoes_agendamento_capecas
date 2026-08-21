@@ -1,6 +1,6 @@
 {
-  "versao": "3.1.0",
+  "versao": "3.1.1",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v3.1.0/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v3.1.1/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Bug Fix. Added dedicated fields for product storage."
 }
