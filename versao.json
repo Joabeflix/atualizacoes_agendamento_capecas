@@ -1,6 +1,6 @@
 {
-  "versao": "4.0.5",
+  "versao": "5.0.0",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v4.0.5/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "Bug Fix. Added dedicated fields for product storage. ++ "
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v5.0.0/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "Add Integração com Winthor (Fase de testes)"
 }
