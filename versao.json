@@ -1,6 +1,6 @@
 {
-  "versao": "5.0.3",
+  "versao": "5.0.5",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v5.0.3/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "Add Integração com Winthor (Fase de testes)"
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v5.0.5/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "Add Integração com Winthor (Fase de testes) | Add Versão Beta da função de endereçamento"
 }
