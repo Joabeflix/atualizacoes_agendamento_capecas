@@ -1,6 +1,6 @@
 {
-  "versao": "6.0.0",
+  "versao": "6.0.1",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v6.0.0/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v6.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "BugFix - Acertos nas rotinas Winthor"
 }
