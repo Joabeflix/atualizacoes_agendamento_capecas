@@ -2,5 +2,5 @@
   "versao": "8.0.1",
   "obrigatoria": false,
   "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v8.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "BugFix - Acertos nas rotinas Winthor - teste"
+  "mensagem": "Refatoração técnica - Ajustes visuais."
 }
