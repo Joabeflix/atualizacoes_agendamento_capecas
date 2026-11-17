@@ -1,6 +1,6 @@
 {
-  "versao": "8.8.8",
+  "versao": "9.0.0",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v8.8.8/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v9.0.0/Instalador.Agendamento.de.Carga.Capecas.exe",
   "mensagem": "Refatoração técnica - Ajustes visuais. Adicionado opções de abrir telas diretamente com o botão direito."
 }
