@@ -1,6 +1,6 @@
 {
-  "versao": "10.0.0",
+  "versao": "10.0.1",
   "obrigatoria": false,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/V10.0.0/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "  <> BUG FIX!!! Interface bugada estava interferindo na atualização dos dados. <>  "
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v10.0.1/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "  <> Notas entregues removidas do filtro --> (AGENDADOS HOJE) /n/n/nBUG FIX!!! Interface bugada estava interferindo na atualização dos dados. <>  "
 }
