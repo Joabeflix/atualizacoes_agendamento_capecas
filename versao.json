@@ -1,6 +1,6 @@
 {
-  "versao": "10.0.2",
+  "versao": "10.0.3",
   "obrigatoria": true,
-  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v10.0.2/Instalador.Agendamento.de.Carga.Capecas.exe",
-  "mensagem": "Adicionado uma nova tela para acompanhar as pendências na guarda.\n\n\nNotas entregues removidas do filtro --> (AGENDADOS HOJE)"
+  "url_instalador": "https://github.com/Joabeflix/atualizacoes_agendamento_capecas/releases/download/v10.0.3/Instalador.Agendamento.de.Carga.Capecas.exe",
+  "mensagem": "Ajustes na tela ROTINAS WINTHOR -> Melhor visualização dos dados / filtro por coluna adicionado"
 }
